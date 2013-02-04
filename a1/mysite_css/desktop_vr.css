@@ -17,7 +17,7 @@
 	display: inline;
 	margin: 0px;
 } 
-#site_navigation ul li a:link {
+#site_navigation ul li a {
 	height:33px;
 	display: block;
 	float: left;
