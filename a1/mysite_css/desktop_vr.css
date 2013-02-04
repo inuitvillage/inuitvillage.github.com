@@ -4,8 +4,8 @@
 /* looking for snazzy colors to use for links to CV and short Bio */
 body {
   background: #FF9999;
-  margin-left: 32%;
-  margin-right: 32%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #site_navigation {
