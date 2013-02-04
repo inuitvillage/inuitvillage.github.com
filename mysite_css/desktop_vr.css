@@ -8,7 +8,8 @@
 	margin: 0;
 	padding: 0;
 	background-image: url('images/images_nav/navigation-bg.jpg');
-  background-repeat: no-repeat left top;
+  background-repeat: no-repeat;
+  background-position: left top;
 } 
 #site_navigation ul {
 	list-style: none;
@@ -29,12 +30,14 @@
 	text-decoration: none;
 	background-image: url('images/images_nav/navigation-separator.png');
   background-repeat: no-repeat;
+  background-repeat: right center; 
 } 
 
 #site_navigation ul li a:hover {
 	color:#363636;
 	background-image: url('images/images_nav/navigation-hover.png');
   background-repeat: repeat-x;
+  background-position: left top 
 }
 
 h2 {
