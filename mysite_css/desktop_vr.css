@@ -10,23 +10,23 @@ body {
 }
  
 /* looking for snazzy colors to use for links to CV and short Bio */
-#navigation {
+#site_navigation {
 	width: 950px;
 	height: 50px;
 	margin: 0;
 	padding: 0;
 	background: url(images/images_nav/navigation-bg.jpg) no-repeat left top;
 } 
-#navigation ul {
+#site_navigation ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 } 
-#navigation ul li {
+#site_navigation ul li {
 	display: inline;
 	margin: 0px;
 } 
-#navigation ul li a {
+#site_navigation ul li a {
 	height:33px;
 	display: block;
 	float: left;
@@ -37,7 +37,7 @@ body {
 	background: url(images/images_nav/navigation-separator.png) no-repeat right center;
 } 
 
-#navigation ul li a:hover {
+#site_navigation ul li a:hover {
 	color:#363636;
 	background: url(images/images_nav/navigation-hover.png) repeat-x left top;
 }
