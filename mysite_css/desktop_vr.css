@@ -7,7 +7,7 @@
 	height: 50px;
 	margin: 0;
 	padding: 0;
-	background-image: url('images/images_nav/navigation-bg.jpg');
+	background-image: url(images/images_nav/navigation-bg.jpg);
   background-repeat: no-repeat;
   background-position: left top;
 } 
