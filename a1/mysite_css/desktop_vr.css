@@ -2,6 +2,10 @@
  * than snow-white, but keep the colors warm and the text distinguishable -->*/
  
 /* looking for snazzy colors to use for links to CV and short Bio */
+body {
+  background: #FF9999;
+}
+
 #site_navigation {
 	width: 950px;
 	height: 50px;
