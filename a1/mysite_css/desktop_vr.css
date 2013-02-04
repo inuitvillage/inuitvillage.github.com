@@ -26,12 +26,10 @@
 	font: bold 12px Arial;
 	color: #FFFFFF;
 	text-decoration: none;
-	background: url('images/images_nav/navigation-separator.png') no-repeat right center;
 } 
 
 #site_navigation ul li a:hover {
 	color:#363636;
-	background: url('images/images_nav/navigation-hover.png') repeat-x left top;
 }
 
 h2 {
