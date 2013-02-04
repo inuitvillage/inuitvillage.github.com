@@ -1,0 +1,14 @@
+/*<!-- Set background color of entire website to something a bit less abrasive
+ * than snow-white, but keep the colors warm and the text distinguishable -->*/
+ul {
+  margin-left: 28%;
+  margin-right: 28%;
+}
+
+/* looking for snazzy colors to use for links to CV and short Bio */
+li.bio {
+  
+}
+li.resume {
+
+}
