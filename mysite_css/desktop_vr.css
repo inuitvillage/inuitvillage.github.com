@@ -17,9 +17,9 @@ ul {
 
 /* looking for snazzy colors to use for links to CV and short Bio */
 li.bio {
-  
+  list-style-type: none;  
 }
 
 li.resume {
-
+  list-style-type: none; 
 }
