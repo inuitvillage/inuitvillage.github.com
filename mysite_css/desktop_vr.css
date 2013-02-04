@@ -1,6 +1,7 @@
 /*<!-- Set background color of entire website to something a bit less abrasive
  * than snow-white, but keep the colors warm and the text distinguishable -->*/
 body {
+  background-position: center;
   background-color: #9999CC;
 
 h2 {
