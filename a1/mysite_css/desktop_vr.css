@@ -1,0 +1,51 @@
+/*<!-- Set background color of entire website to something a bit less abrasive
+ * than snow-white, but keep the colors warm and the text distinguishable -->*/
+ 
+/* looking for snazzy colors to use for links to CV and short Bio */
+#site_navigation {
+	width: 950px;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+	background-image: url(images/images_nav/navigation-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: left top;
+} 
+#site_navigation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+} 
+#site_navigation ul li {
+	display: inline;
+	margin: 0px;
+} 
+#site_navigation ul li a:link {
+	height:33px;
+	display: block;
+	float: left;
+	padding: 17px 15px 0 15px;
+	font: bold 12px Arial;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url('images/images_nav/navigation-separator.png');
+  background-repeat: no-repeat;
+  background-repeat: right center; 
+} 
+
+#site_navigation ul li a:hover {
+	color:#363636;
+	background-image: url('images/images_nav/navigation-hover.png');
+  background-repeat: repeat-x;
+  background-position: left top 
+}
+
+h2 {
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+}
+
+.degree {
+  margin-left: 1.8%;
+  margin-right: 1.8%;
+}
