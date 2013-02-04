@@ -37,7 +37,7 @@ h2 {
   font: bold 20px Arial;
 }
 
-.degree {
+h2.degree {
   
   margin-left: 1.8%;
   margin-right: 1.8%;
