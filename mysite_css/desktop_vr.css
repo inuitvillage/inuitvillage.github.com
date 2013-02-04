@@ -10,7 +10,8 @@ body {
 	height: 50px;
 	margin: 0;
 	padding: 0;
-	background: url('images/images_nav/navigation-bg.jpg') no-repeat left top;
+	background-image: url('images/images_nav/navigation-bg.jpg');
+  background-repeat: no-repeat left top;
 } 
 #site_navigation ul {
 	list-style: none;
@@ -29,12 +30,14 @@ body {
 	font: bold 12px Arial;
 	color: #FFF;
 	text-decoration: none;
-	background: url('images/images_nav/navigation-separator.png') no-repeat right center;
+	background-image: url('images/images_nav/navigation-separator.png');
+  background-repeat: no-repeat right center;
 } 
 
 #site_navigation ul li a:hover {
 	color:#363636;
-	background: url('images/images_nav/navigation-hover.png') repeat-x left top;
+	background-image: url('images/images_nav/navigation-hover.png');
+  background-repeat: repeat-x left top;
 }
 
 h2 {
