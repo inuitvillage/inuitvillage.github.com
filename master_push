@@ -1,0 +1,4 @@
+#!/bin/bash
+git add *
+git commit -m "scripted auto-commit"
+git push -u master origin
