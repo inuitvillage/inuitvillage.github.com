@@ -1,5 +1,9 @@
 /*<!-- Set background color of entire website to something a bit less abrasive
  * than snow-white, but keep the colors warm and the text distinguishable -->*/
+h1 {
+  margin-left: 25%;
+  margin-right: 25%;
+
 ul {
   margin-left: 28%;
   margin-right: 28%;
