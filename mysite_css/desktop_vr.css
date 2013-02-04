@@ -4,28 +4,45 @@ body {
   background-color: #9999CC;
 }
 
-h2 {
-  margin-left: 1.5%;
-  margin-right: 1.5%;
-}
-
 .degree {
   margin-left: 1.8%;
   margin-right: 1.8%;
 }
  
-ul {
-  margin-left: 2.0%;
-  margin-right: 2.0%;
-}
-
 /* looking for snazzy colors to use for links to CV and short Bio */
-li.bio {
-  color: #6666CC;
-  list-style-type: none;  
+#navigation {
+	width: 950px;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+	background: url(images/images_nav/navigation-bg.jpg) no-repeat left top;
+} 
+#navigation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+} 
+#navigation ul li {
+	display: inline;
+	margin: 0px;
+} 
+#navigation ul li a {
+	height:33px;
+	display: block;
+	float: left;
+	padding: 17px 15px 0 15px;
+	font: bold 12px Arial;
+	color: #FFF;
+	text-decoration: none;
+	background: url(images/images_nav/navigation-separator.png) no-repeat right center;
+} 
+
+#navigation ul li a:hover {
+	color:#363636;
+	background: url(images/images_nav/navigation-hover.png) repeat-x left top;
 }
 
-li.resume {
-  color: #6666CC;
-  list-style-type: none; 
+h2 {
+  margin-left: 1.5%;
+  margin-right: 1.5%;
 }
