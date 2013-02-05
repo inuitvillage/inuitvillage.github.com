@@ -49,7 +49,7 @@ h2 {
   font: bold 25px;
 }
 
-.degree {
+li.degree {
   list-style: none;
   margin-left: 2.0%;
   margin-right: 2.0%;
