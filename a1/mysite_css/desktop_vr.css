@@ -49,10 +49,10 @@ h2 {
   font: bold 22px;
 }
 
-h2.degree {
+.degree {
   margin-left: 1.8%;
   margin-right: 1.8%;
-  font: bold 18px;
+  font: bold 16px;
 }
 
 #history {
@@ -63,10 +63,9 @@ h2.degree {
 
 p {
   margin-left: 1.8%;
-  margin-right: auto;
-}
+  margin-right: auto;}
 
-p.cv_section {
+.cv_section {
   font: bold 18px;
 }
 
