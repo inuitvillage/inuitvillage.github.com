@@ -47,14 +47,14 @@ body {
 h2 {
   margin-left: auto;
   margin-right: auto;
-  font: bold 1.8em;
+  font: bold 25px;
 }
 
 .degree {
   list-style: none;
   margin-left: 2.0%;
   margin-right: 2.0%;
-  font: bold 1.2em;
+  font: bold 20px;
 }
 
 #history {
